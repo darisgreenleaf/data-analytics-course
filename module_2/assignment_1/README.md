@@ -18,9 +18,9 @@ Overview Videos: [Part 1](https://www.loom.com/share/5ef6c4a4cb3f4452a24c47a6890
 
 ### Step One: Get to Know Your Data
 
-- [ ] Review the Tech Moms 2023 Annual Report - paying special attention to the Student Demographic sections
-- [ ] Download the “Tech_Moms_Applicant_Data_ANON_8.29.24.csv”
-- [ ] Open the .csv file in the spreadsheet tool of your choice - Excel or Google Sheets
+- [x] Review the Tech Moms 2023 Annual Report - paying special attention to the Student Demographic sections
+- [x] Download the “Tech_Moms_Applicant_Data_ANON_8.29.24.csv”
+- [x] Open the .csv file in the spreadsheet tool of your choice - Excel or Google Sheets
 - [ ] Start by evaluating the columns to understand what data you’re working with
 - [ ] Create a new tab, “Data Dictionary” and copy the columns -> go to new tab -> paste “transposed”. This will paste the columns vertically.
 - [ ] Add a row at the top of the Data Dictionary tab. In A1, type “Column Column Name” & in B1, type “Column Description”. Write a short description of each column based on your best-educated guess (you can also use ChatGPT to help with this).
@@ -40,15 +40,15 @@ Video: [Clean the Data](https://www.loom.com/share/cab3f42f344a4b00a13d52e8bd892
 
 The leadership team has asked you to answer the following questions:
 
-- [ ] How many total applicants are there?
-- [ ] How many applicants were assigned a cohort?
-- [ ] What is the number of total children of all applicants?
-- [ ] What percentage of applicants are veterans?
-- [ ] What percentage of applicants identify as LGBTQ+?
-- [ ] What percentage of applicants do not have laptops?
-- [ ] What is the most number of children of any applicant?
-- [ ] What is the average number of children among all applicants?
-- [ ] What is the average number of children of applicants that were assigned a cohort?
+- [x] How many total applicants are there?
+- [x] How many applicants were assigned a cohort?
+- [x] What is the number of total children of all applicants?
+- [x] What percentage of applicants are veterans?
+- [x] What percentage of applicants identify as LGBTQ+?
+- [x] What percentage of applicants do not have laptops?
+- [x] What is the most number of children of any applicant?
+- [x] What is the average number of children among all applicants?
+- [x] What is the average number of children of applicants that were assigned a cohort?
 
 Create a new tab titled “Functions”. Paste the questions above and answer them using the applicable spreadsheet functions - `COUNT`, `COUNTIF`, `SUM`, `SUMIF`, `MAX`, `MAXIF`, `AVERAGE`, `AVERAGEIF`.
 
@@ -66,8 +66,8 @@ Videos: Fun with Functions - [Part 1](https://www.loom.com/share/0f9ae677ba4c49d
 
 Functions work great for specific calculations while pivot tables are best for summarizing larger data sets.
 
-- [ ] Create a new tab “Pivot Tables”
-- [ ] Start asking additional questions of the data by creating pivot tables.
+- [x] Create a new tab “Pivot Tables”
+- [x] Start asking additional questions of the data by creating pivot tables.
 
 **For example:**
 - What is the employment status of applicants that were assigned a cohort?
@@ -76,7 +76,7 @@ Functions work great for specific calculations while pivot tables are best for s
 - What is the education of the applicants who have been assigned a cohort?
 - What is the race/ethnicity of applicants that were assigned a cohort?
 
-- [ ] Create Calculated Fields to quickly see the percentage of the total for the pivot table data.
+- [x] Create Calculated Fields to quickly see the percentage of the total for the pivot table data.
 
 ### Step Five: Create Charts & Build a Dashboard
 
